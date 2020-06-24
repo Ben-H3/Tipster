@@ -34,13 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using Objective-C, so I was excited for the opportunity to experiment with this simple program as a way to learn the basics of Objective-C syntax. I am looking forward to expanding my knowledge of coding as I continue building more Objective-C projects.
 
 ## Credits
 
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
-
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+All graphics and design were done by me personally for this project.
 
 ## License
 
